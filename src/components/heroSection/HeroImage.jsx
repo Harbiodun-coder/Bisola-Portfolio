@@ -5,7 +5,7 @@ const HeroImage = () => {
     <div className="relative self-end h-full w-full items-center justify-center">
       <div className=" h-full w-full pt-20">
         <img
-          src="../../public/images/bisola.png"
+          src="/images/bisola.png"
           alt="Bisola Praise"
           className=" md:max-w-[570px] sm:max-w-[380px] absolute bottom-[0px] z-10 left-[50%] -translate-x-[50%] pt-20"
         />
