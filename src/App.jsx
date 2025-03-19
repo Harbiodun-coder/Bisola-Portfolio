@@ -18,12 +18,12 @@ function App() {
       <HeroGradient />
       <SubHeroMain />
       <AboutMeMain />
-      {/* <SkillsMain />
+      <SkillsMain />
       <SubSkills />
       <ExperienceMain />
       <ProjectsMain />
       <ContactMeMain />
-      <FooterMain /> */}
+      <FooterMain />
     </main>
   );
 }
