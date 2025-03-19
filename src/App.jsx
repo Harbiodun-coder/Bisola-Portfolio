@@ -21,7 +21,7 @@ function App() {
       <SkillsMain />
       <SubSkills />
       {/* <ExperienceMain /> */}
-      {/* <ProjectsMain /> */}
+      <ProjectsMain />
       <ContactMeMain />
       <FooterMain />
     </main>
