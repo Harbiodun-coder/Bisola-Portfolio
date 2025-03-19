@@ -1,8 +1,7 @@
 import { HiOutlineMail } from "react-icons/hi";
 import { FiPhone } from "react-icons/fi";
 import { IoLocationOutline } from "react-icons/io5";
-import { FaLinkedin } from "react-icons/fa";
-import { FaInstagramSquare } from "react-icons/fa";
+
 import SingleInfo from "./SingleInfo";
 
 const ContactInfo = () => {
