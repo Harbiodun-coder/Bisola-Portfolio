@@ -1,14 +1,18 @@
 import { HiOutlineMail } from "react-icons/hi";
 import { FiPhone } from "react-icons/fi";
 import { IoLocationOutline } from "react-icons/io5";
+import { FaLinkedin } from "react-icons/fa";
+import { FaInstagramSquare } from "react-icons/fa";
 import SingleInfo from "./SingleInfo";
 
 const ContactInfo = () => {
   return (
     <div className="flex flex-col gap-4">
-      <SingleInfo text="abdelrahman.qassem@gmail.com" Image={HiOutlineMail} />
-      <SingleInfo text="+2 01000 66 24 55" Image={FiPhone} />
-      <SingleInfo text="Alexandria, Egypt" Image={IoLocationOutline} />
+      <SingleInfo text="Bisolaoluwanisola370@gmail.com" Image={HiOutlineMail} />
+      <SingleInfo text="+234 915 773 6601" Image={FiPhone} />
+      <SingleInfo text="Lagos, Nigeria" Image={IoLocationOutline} />
+
+
     </div>
   );
 };

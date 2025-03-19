@@ -20,8 +20,8 @@ function App() {
       <AboutMeMain />
       <SkillsMain />
       <SubSkills />
-      <ExperienceMain />
-      <ProjectsMain />
+      {/* <ExperienceMain /> */}
+      {/* <ProjectsMain /> */}
       <ContactMeMain />
       <FooterMain />
     </main>
