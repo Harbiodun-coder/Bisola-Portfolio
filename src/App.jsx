@@ -1,6 +1,6 @@
 import AboutMeMain from "./components/aboutMeSection/AboutMeMain";
 import ContactMeMain from "./components/contactMeSection/ContactMeMain";
-import ExperienceMain from "./components/experienceSection/ExperienceMain";
+
 import FooterMain from "./components/footer/FooterMain";
 import HeroGradient from "./components/heroSection/HeroGradient";
 import HeroMain from "./components/heroSection/HeroMain";

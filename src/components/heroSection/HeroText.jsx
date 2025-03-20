@@ -30,7 +30,7 @@ const HeroText = () => {
         viewport={{ once: false, amount: 0 }}
         className="text-lg mt-4"
       >
-      A dedicated Data Analyst and Instructor with 3 years of experience in uncovering insights and driving data-driven decisions.
+      A dedicated Data Analyst with 1 year of experience in uncovering insights and driving data-driven decisions.
       </motion.p>
     </div>
   );
