@@ -12,18 +12,7 @@ I thrive on making data accessible, actionable, and impactful. If you’re looki
 
 
       </p>
-      <button className="border border-orange rounded-full py-2 px-4 text-lg flex gap-2 items-center mt-10 hover:bg-orange transition-all duration-500 cursor-pointer md:self-start sm:self-center">
-        <Link
-          spy={true}
-          smooth={true}
-          duration={500}
-          offset={-120}
-          to="projects"
-          className="cursor-pointer text-white hover:text-cyan transition-all duration-500"
-        >
-          My Projects
-        </Link>
-      </button>
+      
     </div>
   );
 };

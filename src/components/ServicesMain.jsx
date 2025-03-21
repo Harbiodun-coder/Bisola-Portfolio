@@ -54,7 +54,7 @@ const ServicesMain = () => {
             hover:scale-105 transition-all duration-500"
           >
             <div className="mb-4">{service.icon}</div>
-            <h3 className="text-xl font-semibold text-white">{service.title}</h3>
+            <h3 className="text-xl font-semibold text-orange">{service.title}</h3>
             <p className="text-gray-300 mt-2 text-sm">{service.description}</p>
           </div>
         ))}
