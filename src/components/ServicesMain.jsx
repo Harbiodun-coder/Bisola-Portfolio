@@ -55,7 +55,7 @@ const ServicesMain = () => {
           >
             <div className="mb-4">{service.icon}</div>
             <h3 className="text-xl font-semibold text-white">{service.title}</h3>
-            <p className="text-gray-300 mt-2 text-[20px]">{service.description}</p>
+            <p className="text-gray-300 mt-2 text-sm">{service.description}</p>
           </div>
         ))}
       </div>
