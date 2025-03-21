@@ -23,15 +23,7 @@ const HeroText = () => {
         Bisola <br className="sm:hidden md:block" />
         Oluwanisola
       </motion.h1>
-      <motion.p
-        variants={fadeIn("up", 0.6)}
-        initial="hidden"
-        whileInView="show"
-        viewport={{ once: false, amount: 0 }}
-        className="text-lg mt-4"
-      >
-      A dedicated Data Analyst with 1 year of experience in uncovering insights and driving data-driven decisions.
-      </motion.p>
+     
     </div>
   );
 };

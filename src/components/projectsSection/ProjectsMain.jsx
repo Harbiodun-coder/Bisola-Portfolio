@@ -5,19 +5,24 @@ import { fadeIn } from "../../framerMotion/variants";
 
 const projects = [
   {
-    name: "Bank Churn",
-    year: "Mar2025",
+    name: "Power Consumption Analysis",
     align: "right",
+    image: "/images/power.jpg",
+    link: "https://github.com/Bisolaoluwanisola/Train-rides-analysis",
+  },
+  {
+    name: "Bank Churn",
+    align: "left",
     image: "/images/bankchurn.jpg",
     link: "https://github.com/Bisolaoluwanisola/Bank-churn",
   },
   {
     name: "Train Rides Analysis",
-    year: "Sept2024",
-    align: "left",
+    align: "right",
     image: "/images/train.jpg",
     link: "https://github.com/Bisolaoluwanisola/Train-rides-analysis",
   },
+ 
  
 ];
 
